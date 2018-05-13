@@ -1,0 +1,6 @@
+Overview of IAM:
+- PCI DSS Compliance
+- Policy Document is in JSON Format
+- Access Keys and Secret Access key ID are enabled when Programatic Login is enabled
+    - Can be seen only once while creation of users.
+    - If lost, have to be recreated.
